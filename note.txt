@@ -1,0 +1,8 @@
+dom- document object model
+--------------------------------
+dom methods-
+1 document.getElementsByTagName('tagname') = obtain elements by tagname
+2 document.getElementsByClassName('classname') = obtain elements by classname
+3 document.getElementById('id') = obtain element by id
+4 document.querySelector('tagname/.classname/#id') = obtain elements by using tagname or classname or id
+5 document.querySelectorAll('tagname/.classname/#id') = obtain elements using all(tagname,classname and id)
